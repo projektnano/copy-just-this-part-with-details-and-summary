@@ -4,8 +4,7 @@ Might sound weird, but keep reading.
 
 ## Ever wanted to copy just that one?
 
-The idea is simple and straight forward. You have a webpage and you have different sections on that webpage such as ´´´<section>´´´ or ´´´<div class="section">content here</div>´´´ and you want to allow the visitor 
-to copy the content of that section by the click of a button.
+The idea is simple and straight forward. You have a webpage and you have different sections on that webpage such as a section or a div tag? Ever wanted to allow the visitor to copy the content of **just** that section by the click of a button? Okay.
 
 ## You want to accomplish this with minimal JS code
 
